@@ -72,3 +72,11 @@ contract Visa{
         return("visa applied successfully");
     }
 }
+## Author
+
+Riyakumari2710
+
+## License
+
+This MyToken is licensed under the MIT License 
+
